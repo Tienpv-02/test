@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578385627 source:d:\c++\codeblocks\xau\main.cpp
+	<iostream>
+	<fstream>
+	<strings.h>
+	<stdio.h>
+
